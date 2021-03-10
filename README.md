@@ -26,7 +26,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/7oYJX1BdVT.gif' />
 
-**Twitter** is a basic twitter app to read your tweets.
+# Twitter - Part I
+
+This is a basic twitter app to read your tweets.
 
 Time spent: **12** hours spent in total
 
